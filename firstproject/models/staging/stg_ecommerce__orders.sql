@@ -10,7 +10,6 @@ renamed as (
         order_id,
         user_id,
         status,
-        gender,
         created_at,
         returned_at,
         shipped_at,
