@@ -18,6 +18,7 @@ models:
         tests:
           - not_null
 
+
       - name: user_id
         description: ""
         data_type: INTEGER
@@ -29,6 +30,7 @@ models:
         data_type: INTEGER
         tests:
           - not_null
+
 
       - name: inventory_item_id
         description: ""
